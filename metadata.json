@@ -1,0 +1,97 @@
+{
+  "name": "LLM Safety and Red Teaming",
+  "description": "Prompt injection and jailbreak dataset for LLM safety research, covering harm categories, injection techniques, and severity classifications.",
+  "record_count": 2000,
+  "sample_size": 100,
+  "price": "$49",
+  "currency": "USD",
+  "license": "CC-BY-SA-4.0",
+  "tags": [
+    "llm",
+    "safety",
+    "red-teaming",
+    "prompt-injection",
+    "jailbreak"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "type": "string",
+      "description": "Field: id"
+    },
+    {
+      "name": "prompt",
+      "type": "string",
+      "description": "Field: prompt"
+    },
+    {
+      "name": "label",
+      "type": "string",
+      "description": "Field: label"
+    },
+    {
+      "name": "severity",
+      "type": "string",
+      "description": "Field: severity"
+    },
+    {
+      "name": "harm_category",
+      "type": "string",
+      "description": "Field: harm_category"
+    },
+    {
+      "name": "injection_technique",
+      "type": "string",
+      "description": "Field: injection_technique"
+    },
+    {
+      "name": "jailbreak_pattern",
+      "type": "string",
+      "description": "Field: jailbreak_pattern"
+    },
+    {
+      "name": "prompt_length",
+      "type": "string",
+      "description": "Field: prompt_length"
+    },
+    {
+      "name": "contains_code",
+      "type": "string",
+      "description": "Field: contains_code"
+    },
+    {
+      "name": "contains_url",
+      "type": "string",
+      "description": "Field: contains_url"
+    },
+    {
+      "name": "language",
+      "type": "string",
+      "description": "Field: language"
+    },
+    {
+      "name": "timestamp",
+      "type": "string",
+      "description": "Field: timestamp"
+    },
+    {
+      "name": "data_source",
+      "type": "string",
+      "description": "Field: data_source"
+    },
+    {
+      "name": "is_synthetic",
+      "type": "string",
+      "description": "Field: is_synthetic"
+    },
+    {
+      "name": "disclaimer",
+      "type": "string",
+      "description": "Field: disclaimer"
+    }
+  ],
+  "source": "Synthetic / Curated",
+  "created": "2026-08-08",
+  "contact": "manteclaw@proton.me",
+  "store_url": "https://manteclaw.gumroad.com"
+}
