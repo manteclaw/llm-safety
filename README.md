@@ -1,3 +1,24 @@
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "LLM Safety and Red Teaming",
+  "description": "Prompt injection and jailbreak dataset for LLM safety research, covering harm categories, injection techniques, and severity classifications.",
+  "creator": {"@type": "Organization", "name": "Manteclaw"},
+  "license": "https://opensource.org/licenses/MIT",
+  "distribution": {"@type": "DataDownload", "contentUrl": "https://payhip.com/Manteclaw"}
+}
+</script>
+-->
+[![Get Full Dataset](https://img.shields.io/badge/Get%20Full%20Dataset-Payhip-10b981?style=for-the-badge)](https://payhip.com/Manteclaw)
+
+## 📊 Quick Stats
+
+| 📁 Records | 📄 Files | 📐 Columns | 💾 Size | 💰 Price |
+|:----------:|:--------:|:----------:|:-------:|:--------:|
+| 2,000 | 3 | 11 | ~200 KB | $49 |
+
 ![Records](https://img.shields.io/badge/records-2000-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Price](https://img.shields.io/badge/price-49-brightgreen)
@@ -94,3 +115,8 @@ This dataset is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licens
 | Cybersecurity Intrusion Detection | 2,000 | $49 | [GitHub](https://github.com/manteclaw/cybersecurity-intrusion) |
 
 **All datasets available at:** https://payhip.com/Manteclaw
+
+
+---
+
+**Keywords:** dataset, machine learning, AI safety, Base L2, AI agents
